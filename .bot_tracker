@@ -680,3 +680,4 @@
 2024-01-05T14:33:35 chore: bump dependency versions
 2024-01-05T19:39:52 fix: prevent duplicate entries
 2024-01-05T20:57:27 style: fix inconsistent indentation
+2024-01-08T08:04:33 fix: handle null reference gracefully
