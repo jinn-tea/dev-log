@@ -684,3 +684,4 @@
 2024-01-08T10:12:24 chore: bump dependency versions
 2024-01-08T11:35:54 chore: clean up unused imports
 2024-01-08T14:44:54 minor refactor
+2024-01-08T15:17:40 fix: resolve edge case in input handling
