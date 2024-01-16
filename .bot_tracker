@@ -695,3 +695,4 @@
 2024-01-12T18:15:36 feat: add logging for debug mode
 2024-01-16T12:01:28 style: fix inconsistent indentation
 2024-01-16T12:04:44 clean up after merge
+2024-01-16T20:00:10 style: apply formatter
