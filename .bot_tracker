@@ -715,3 +715,4 @@
 2024-01-30T17:17:36 feat: expose new API endpoint
 2024-01-30T22:30:19 fix: wrong variable used in condition
 2024-01-31T10:38:00 handle additional response types
+2024-01-31T13:00:29 clean up after merge
