@@ -718,3 +718,4 @@
 2024-01-31T13:00:29 clean up after merge
 2024-01-31T18:37:14 minor refactor
 2024-02-01T11:18:52 fix: memory leak in event listener
+2024-02-01T20:45:23 chore: update .gitignore entries
