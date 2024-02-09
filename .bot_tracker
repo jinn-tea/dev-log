@@ -726,3 +726,4 @@
 2024-02-08T12:20:43 feat: add logging for debug mode
 2024-02-08T12:38:59 fix: address race condition
 2024-02-09T11:12:29 fix: wrong variable used in condition
+2024-02-09T16:00:25 adjust retry logic
