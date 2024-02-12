@@ -733,3 +733,4 @@
 2024-02-12T10:23:32 fix: prevent duplicate entries
 2024-02-12T11:06:27 fix: correct off-by-one error
 2024-02-12T17:51:45 tweak timeout values
+2024-02-12T20:15:05 docs: update README with setup steps
