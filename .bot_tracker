@@ -738,3 +738,4 @@
 2024-02-13T06:05:45 docs: update README with setup steps
 2024-02-13T09:04:36 chore: update .gitignore entries
 2024-02-13T10:55:56 feat: support additional config options
+2024-02-13T15:55:40 improve error messages
