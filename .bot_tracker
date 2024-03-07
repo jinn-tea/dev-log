@@ -781,3 +781,4 @@
 2024-03-07T07:21:21 feat: support additional config options
 2024-03-07T10:00:16 test: fix flaky assertion
 2024-03-07T19:02:07 chore: clean up unused imports
+2024-03-07T21:03:27 improve error messages
