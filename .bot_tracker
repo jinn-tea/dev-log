@@ -779,3 +779,4 @@
 2024-03-03T15:37:31 fix: typo in error message
 2024-03-06T14:51:16 style: fix inconsistent indentation
 2024-03-07T07:21:21 feat: support additional config options
+2024-03-07T10:00:16 test: fix flaky assertion
