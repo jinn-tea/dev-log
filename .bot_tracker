@@ -785,3 +785,4 @@
 2024-03-08T08:47:10 refactor: extract repeated logic into function
 2024-03-08T22:14:38 style: apply formatter
 2024-03-12T10:43:42 refactor: simplify conditional branches
+2024-03-12T16:29:51 refactor: extract repeated logic into function
