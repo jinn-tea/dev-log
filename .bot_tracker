@@ -790,3 +790,4 @@
 2024-03-15T15:03:28 docs: add inline comments for clarity
 2024-03-15T19:31:09 test: add edge case coverage
 2024-03-18T07:34:37 feat: support additional config options
+2024-03-18T08:43:08 feat: add helper utility function
