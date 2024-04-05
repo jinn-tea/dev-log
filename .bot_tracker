@@ -817,3 +817,4 @@
 2024-04-01T10:40:56 test: fix flaky assertion
 2024-04-01T12:02:59 docs: update README with setup steps
 2024-04-05T06:22:58 clean up after merge
+2024-04-05T11:43:57 feat: expose new API endpoint
