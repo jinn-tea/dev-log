@@ -820,3 +820,4 @@
 2024-04-05T11:43:57 feat: expose new API endpoint
 2024-04-05T12:39:01 feat: support additional config options
 2024-04-05T13:41:55 adjust retry logic
+2024-04-05T14:42:16 fix: memory leak in event listener
