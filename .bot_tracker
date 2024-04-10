@@ -829,3 +829,4 @@
 2024-04-10T10:11:27 small cleanup
 2024-04-10T11:58:30 fix: address race condition
 2024-04-10T12:10:42 fix: update broken import path
+2024-04-10T12:10:55 chore: bump dependency versions
