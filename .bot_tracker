@@ -841,3 +841,4 @@
 2024-04-11T11:37:44 feat: add logging for debug mode
 2024-04-11T11:41:51 test: fix flaky assertion
 2024-04-11T15:30:22 clean up after merge
+2024-04-13T18:41:42 test: add edge case coverage
