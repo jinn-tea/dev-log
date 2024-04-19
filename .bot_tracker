@@ -856,3 +856,4 @@
 2024-04-19T15:38:09 feat: add logging for debug mode
 2024-04-19T16:33:06 minor refactor
 2024-04-19T20:22:16 chore: clean up unused imports
+2024-04-19T20:56:11 fix: handle null reference gracefully
