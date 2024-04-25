@@ -867,3 +867,4 @@
 2024-04-25T09:57:08 fix: sanitize user input correctly
 2024-04-25T10:04:42 feat: add logging for debug mode
 2024-04-25T11:29:05 fix: prevent duplicate entries
+2024-04-25T14:00:49 chore: reorganize file structure
