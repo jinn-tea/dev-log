@@ -877,3 +877,4 @@
 2024-04-29T18:29:10 fix: typo in error message
 2024-04-29T19:19:36 fix: address race condition
 2024-04-29T20:45:31 feat: support additional config options
+2024-04-29T21:10:55 minor refactor
