@@ -875,3 +875,4 @@
 2024-04-29T11:26:36 fix: sanitize user input correctly
 2024-04-29T11:28:50 feat: implement retry mechanism
 2024-04-29T18:29:10 fix: typo in error message
+2024-04-29T19:19:36 fix: address race condition
