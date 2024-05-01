@@ -883,3 +883,4 @@
 2024-04-30T15:17:01 improve error messages
 2024-04-30T18:47:23 tweak timeout values
 2024-04-30T20:04:33 style: fix inconsistent indentation
+2024-05-01T09:18:05 fix: memory leak in event listener
