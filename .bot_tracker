@@ -886,3 +886,4 @@
 2024-05-01T09:18:05 fix: memory leak in event listener
 2024-05-01T14:14:59 chore: reorganize file structure
 2024-05-01T15:38:28 small cleanup
+2024-05-02T13:04:22 chore: bump dependency versions
