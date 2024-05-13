@@ -900,3 +900,4 @@
 2024-05-09T06:49:41 fix: wrong variable used in condition
 2024-05-13T15:19:23 fix: sanitize user input correctly
 2024-05-13T16:47:29 chore: update .gitignore entries
+2024-05-13T18:38:18 update config defaults
