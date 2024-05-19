@@ -913,3 +913,4 @@
 2024-05-17T09:00:10 refactor: simplify conditional branches
 2024-05-17T17:45:52 chore: bump dependency versions
 2024-05-17T19:27:51 fix: prevent duplicate entries
+2024-05-19T09:15:03 fix: handle null reference gracefully
