@@ -920,3 +920,4 @@
 2024-05-24T12:26:26 refactor: simplify conditional branches
 2024-05-26T14:09:20 small cleanup
 2024-05-27T09:01:59 address review comments
+2024-05-27T09:29:43 feat: add logging for debug mode
