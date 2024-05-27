@@ -923,3 +923,4 @@
 2024-05-27T09:29:43 feat: add logging for debug mode
 2024-05-27T16:24:01 small cleanup
 2024-05-27T16:30:05 feat: expose new API endpoint
+2024-05-27T16:36:14 fix: correct off-by-one error
