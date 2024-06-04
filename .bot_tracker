@@ -932,3 +932,4 @@
 2024-06-04T07:51:43 fix: update broken import path
 2024-06-04T10:24:33 fix: correct off-by-one error
 2024-06-04T11:41:51 test: add edge case coverage
+2024-06-04T14:48:54 minor performance improvement
