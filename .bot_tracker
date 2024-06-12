@@ -956,3 +956,4 @@
 2024-06-11T16:31:22 feat: expose new API endpoint
 2024-06-12T08:57:21 feat: add basic validation logic
 2024-06-12T11:20:18 update config defaults
+2024-06-12T17:02:35 style: fix inconsistent indentation
