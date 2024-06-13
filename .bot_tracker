@@ -958,3 +958,4 @@
 2024-06-12T11:20:18 update config defaults
 2024-06-12T17:02:35 style: fix inconsistent indentation
 2024-06-13T10:19:05 handle additional response types
+2024-06-13T11:41:27 feat: add basic validation logic
