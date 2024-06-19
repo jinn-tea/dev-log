@@ -960,3 +960,4 @@
 2024-06-13T10:19:05 handle additional response types
 2024-06-13T11:41:27 feat: add basic validation logic
 2024-06-17T09:58:41 feat: support additional config options
+2024-06-19T11:13:07 style: fix inconsistent indentation
