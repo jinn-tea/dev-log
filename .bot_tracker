@@ -967,3 +967,4 @@
 2024-06-21T20:46:31 fix: typo in error message
 2024-06-23T17:25:43 small cleanup
 2024-06-24T08:50:22 feat: implement caching layer
+2024-06-24T10:55:47 docs: update README with setup steps
