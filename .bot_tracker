@@ -972,3 +972,4 @@
 2024-06-24T15:05:00 refactor: rename variables for clarity
 2024-06-24T15:27:56 fix: sanitize user input correctly
 2024-06-24T15:37:17 fix: wrong variable used in condition
+2024-06-26T12:00:51 fix: sanitize user input correctly
