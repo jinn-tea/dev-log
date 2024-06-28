@@ -977,3 +977,4 @@
 2024-06-27T17:16:22 feat: support additional config options
 2024-06-28T10:30:51 chore: remove console.log statements
 2024-06-28T12:23:06 chore: update .gitignore entries
+2024-06-28T13:57:13 style: apply formatter
