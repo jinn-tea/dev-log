@@ -987,3 +987,4 @@
 2024-07-02T18:07:16 fix: memory leak in event listener
 2024-07-03T07:35:47 tweak timeout values
 2024-07-03T11:32:11 feat: expose new API endpoint
+2024-07-03T16:16:07 feat: add basic validation logic
