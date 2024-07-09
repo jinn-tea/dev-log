@@ -1001,3 +1001,4 @@
 2024-07-08T11:27:35 chore: bump dependency versions
 2024-07-08T22:53:28 tweak timeout values
 2024-07-09T10:42:01 test: add edge case coverage
+2024-07-09T11:21:03 feat: add logging for debug mode
