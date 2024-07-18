@@ -1027,3 +1027,4 @@
 2024-07-17T19:39:54 fix: sanitize user input correctly
 2024-07-18T10:05:18 fix: typo in error message
 2024-07-18T13:51:38 fix: update broken import path
+2024-07-18T14:19:14 adjust retry logic
