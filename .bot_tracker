@@ -1036,3 +1036,4 @@
 2024-07-20T18:27:55 fix: correct off-by-one error
 2024-07-22T17:40:47 feat: expose new API endpoint
 2024-07-23T09:33:01 fix: handle null reference gracefully
+2024-07-23T17:37:11 address review comments
