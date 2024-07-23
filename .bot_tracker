@@ -1035,3 +1035,4 @@
 2024-07-19T14:38:26 docs: add inline comments for clarity
 2024-07-20T18:27:55 fix: correct off-by-one error
 2024-07-22T17:40:47 feat: expose new API endpoint
+2024-07-23T09:33:01 fix: handle null reference gracefully
