@@ -1047,3 +1047,4 @@
 2024-07-25T22:40:04 tweak timeout values
 2024-07-26T09:25:51 address review comments
 2024-07-26T10:53:19 feat: expose new API endpoint
+2024-07-26T17:44:11 fix: prevent duplicate entries
