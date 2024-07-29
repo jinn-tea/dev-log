@@ -1050,3 +1050,4 @@
 2024-07-26T17:44:11 fix: prevent duplicate entries
 2024-07-26T21:50:53 chore: bump dependency versions
 2024-07-27T09:20:13 chore: lock file update
+2024-07-29T16:17:03 docs: add inline comments for clarity
