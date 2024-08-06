@@ -1063,3 +1063,4 @@
 2024-08-06T15:32:18 feat: implement retry mechanism
 2024-08-06T15:35:31 feat: support additional config options
 2024-08-06T17:53:57 tweak timeout values
+2024-08-06T18:53:02 feat: add helper utility function
