@@ -1081,3 +1081,4 @@
 2024-08-16T09:37:07 feat: add pagination support
 2024-08-16T09:38:37 fix: sanitize user input correctly
 2024-08-16T14:50:09 small cleanup
+2024-08-16T15:38:27 docs: update README with setup steps
