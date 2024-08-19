@@ -1084,3 +1084,4 @@
 2024-08-16T15:38:27 docs: update README with setup steps
 2024-08-16T21:54:28 refactor: simplify conditional branches
 2024-08-19T09:39:36 fix: memory leak in event listener
+2024-08-19T11:36:32 docs: update README with setup steps
