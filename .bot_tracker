@@ -1091,3 +1091,4 @@
 2024-08-20T13:56:28 style: apply formatter
 2024-08-20T14:06:16 improve error messages
 2024-08-20T17:36:13 fix: wrong variable used in condition
+2024-08-20T18:34:01 docs: add inline comments for clarity
