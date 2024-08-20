@@ -1088,3 +1088,4 @@
 2024-08-19T12:06:23 feat: add helper utility function
 2024-08-19T17:16:25 refactor: rename variables for clarity
 2024-08-20T12:22:19 handle additional response types
+2024-08-20T13:56:28 style: apply formatter
