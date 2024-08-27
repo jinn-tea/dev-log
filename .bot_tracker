@@ -1106,3 +1106,4 @@
 2024-08-26T13:57:32 fix: address race condition
 2024-08-26T14:44:04 handle additional response types
 2024-08-26T16:30:49 feat: support additional config options
+2024-08-27T10:33:37 feat: add pagination support
