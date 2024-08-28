@@ -1109,3 +1109,4 @@
 2024-08-27T10:33:37 feat: add pagination support
 2024-08-27T14:39:44 minor performance improvement
 2024-08-27T16:48:05 feat: expose new API endpoint
+2024-08-28T11:32:29 feat: support additional config options
