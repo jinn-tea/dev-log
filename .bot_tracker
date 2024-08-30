@@ -1111,3 +1111,4 @@
 2024-08-27T16:48:05 feat: expose new API endpoint
 2024-08-28T11:32:29 feat: support additional config options
 2024-08-28T16:58:16 chore: update .gitignore entries
+2024-08-30T10:24:41 refactor: remove dead code
