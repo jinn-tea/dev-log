@@ -1122,3 +1122,4 @@
 2024-09-02T14:22:33 feat: add pagination support
 2024-09-02T18:05:10 minor performance improvement
 2024-09-03T05:45:32 tweak timeout values
+2024-09-03T16:54:39 handle additional response types
