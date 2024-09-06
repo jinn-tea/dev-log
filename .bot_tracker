@@ -1127,3 +1127,4 @@
 2024-09-04T11:18:59 refactor: extract repeated logic into function
 2024-09-06T07:33:20 style: apply formatter
 2024-09-06T15:22:57 chore: bump dependency versions
+2024-09-06T22:59:46 fix: prevent duplicate entries
