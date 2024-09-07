@@ -1129,3 +1129,4 @@
 2024-09-06T15:22:57 chore: bump dependency versions
 2024-09-06T22:59:46 fix: prevent duplicate entries
 2024-09-07T08:04:07 fix: sanitize user input correctly
+2024-09-07T11:17:16 style: fix inconsistent indentation
