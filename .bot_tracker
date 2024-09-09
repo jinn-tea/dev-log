@@ -1131,3 +1131,4 @@
 2024-09-07T08:04:07 fix: sanitize user input correctly
 2024-09-07T11:17:16 style: fix inconsistent indentation
 2024-09-08T17:41:11 test: fix flaky assertion
+2024-09-09T11:21:49 fix: sanitize user input correctly
