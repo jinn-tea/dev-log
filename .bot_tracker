@@ -1148,3 +1148,4 @@
 2024-09-18T16:58:02 docs: add inline comments for clarity
 2024-09-19T11:28:33 fix: wrong variable used in condition
 2024-09-19T17:16:07 fix: address race condition
+2024-09-19T18:21:55 feat: support additional config options
