@@ -1173,3 +1173,4 @@
 2024-10-06T12:20:28 minor refactor
 2024-10-07T11:36:03 fix: prevent duplicate entries
 2024-10-07T11:41:44 chore: lock file update
+2024-10-07T15:53:17 chore: bump dependency versions
