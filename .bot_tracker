@@ -1196,3 +1196,4 @@
 2024-10-15T10:52:22 fix: update broken import path
 2024-10-15T11:13:52 clean up after merge
 2024-10-15T14:35:50 tweak timeout values
+2024-10-15T14:40:16 adjust retry logic
