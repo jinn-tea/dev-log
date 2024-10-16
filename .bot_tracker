@@ -1198,3 +1198,4 @@
 2024-10-15T14:35:50 tweak timeout values
 2024-10-15T14:40:16 adjust retry logic
 2024-10-15T15:14:45 feat: expose new API endpoint
+2024-10-16T11:28:57 fix: wrong variable used in condition
