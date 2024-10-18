@@ -1202,3 +1202,4 @@
 2024-10-16T13:05:31 clean up after merge
 2024-10-17T13:28:14 feat: expose new API endpoint
 2024-10-17T16:21:18 handle additional response types
+2024-10-18T07:12:44 fix: memory leak in event listener
