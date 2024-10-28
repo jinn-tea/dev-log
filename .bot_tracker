@@ -1217,3 +1217,4 @@
 2024-10-25T14:05:40 fix: update broken import path
 2024-10-25T15:45:20 feat: implement caching layer
 2024-10-27T14:12:46 feat: add pagination support
+2024-10-28T10:55:47 fix: resolve edge case in input handling
