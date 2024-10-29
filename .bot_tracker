@@ -1221,3 +1221,4 @@
 2024-10-28T15:54:45 update config defaults
 2024-10-29T09:05:28 tweak timeout values
 2024-10-29T13:26:03 feat: add pagination support
+2024-10-29T15:08:30 feat: expose new API endpoint
