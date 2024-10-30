@@ -1224,3 +1224,4 @@
 2024-10-29T15:08:30 feat: expose new API endpoint
 2024-10-29T18:36:32 feat: support additional config options
 2024-10-29T19:08:22 handle additional response types
+2024-10-30T11:27:01 feat: add helper utility function
