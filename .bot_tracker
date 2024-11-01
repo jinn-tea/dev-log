@@ -1228,3 +1228,4 @@
 2024-10-30T12:12:06 fix: wrong variable used in condition
 2024-10-30T12:51:56 chore: lock file update
 2024-11-01T10:32:52 feat: support additional config options
+2024-11-01T18:33:02 refactor: simplify conditional branches
