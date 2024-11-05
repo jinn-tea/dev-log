@@ -1236,3 +1236,4 @@
 2024-11-04T14:34:27 chore: bump dependency versions
 2024-11-05T13:31:16 refactor: extract repeated logic into function
 2024-11-05T14:57:47 fix: sanitize user input correctly
+2024-11-05T15:20:04 fix: handle null reference gracefully
