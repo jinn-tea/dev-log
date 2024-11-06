@@ -1238,3 +1238,4 @@
 2024-11-05T14:57:47 fix: sanitize user input correctly
 2024-11-05T15:20:04 fix: handle null reference gracefully
 2024-11-05T16:37:17 chore: bump dependency versions
+2024-11-06T17:22:21 fix: update broken import path
