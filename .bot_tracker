@@ -1239,3 +1239,4 @@
 2024-11-05T15:20:04 fix: handle null reference gracefully
 2024-11-05T16:37:17 chore: bump dependency versions
 2024-11-06T17:22:21 fix: update broken import path
+2024-11-08T16:40:11 fix: prevent duplicate entries
