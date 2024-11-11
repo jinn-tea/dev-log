@@ -1240,3 +1240,4 @@
 2024-11-05T16:37:17 chore: bump dependency versions
 2024-11-06T17:22:21 fix: update broken import path
 2024-11-08T16:40:11 fix: prevent duplicate entries
+2024-11-11T13:53:58 feat: support additional config options
