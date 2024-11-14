@@ -1244,3 +1244,4 @@
 2024-11-13T08:15:45 feat: expose new API endpoint
 2024-11-14T07:22:24 tweak timeout values
 2024-11-14T10:18:52 improve error messages
+2024-11-14T10:24:48 minor performance improvement
