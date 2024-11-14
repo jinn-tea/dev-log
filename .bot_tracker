@@ -1243,3 +1243,4 @@
 2024-11-11T13:53:58 feat: support additional config options
 2024-11-13T08:15:45 feat: expose new API endpoint
 2024-11-14T07:22:24 tweak timeout values
+2024-11-14T10:18:52 improve error messages
