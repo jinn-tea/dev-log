@@ -1255,3 +1255,4 @@
 2024-11-20T15:39:32 feat: add helper utility function
 2024-11-20T16:01:18 docs: update README with setup steps
 2024-11-20T16:15:59 test: fix flaky assertion
+2024-11-20T17:08:52 fix: correct off-by-one error
