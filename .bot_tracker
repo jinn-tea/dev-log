@@ -1257,3 +1257,4 @@
 2024-11-20T16:15:59 test: fix flaky assertion
 2024-11-20T17:08:52 fix: correct off-by-one error
 2024-11-20T20:39:57 feat: add pagination support
+2024-11-21T11:14:54 feat: support additional config options
