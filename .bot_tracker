@@ -1259,3 +1259,4 @@
 2024-11-20T20:39:57 feat: add pagination support
 2024-11-21T11:14:54 feat: support additional config options
 2024-11-21T15:31:18 feat: expose new API endpoint
+2024-11-22T11:55:48 feat: add logging for debug mode
