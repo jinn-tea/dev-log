@@ -1261,3 +1261,4 @@
 2024-11-21T15:31:18 feat: expose new API endpoint
 2024-11-22T11:55:48 feat: add logging for debug mode
 2024-11-25T06:21:18 tweak timeout values
+2024-11-25T09:40:37 fix: sanitize user input correctly
