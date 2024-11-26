@@ -1264,3 +1264,4 @@
 2024-11-25T09:40:37 fix: sanitize user input correctly
 2024-11-26T11:38:44 improve error messages
 2024-11-26T12:07:29 fix: sanitize user input correctly
+2024-11-26T13:18:50 feat: expose new API endpoint
