@@ -1262,3 +1262,4 @@
 2024-11-22T11:55:48 feat: add logging for debug mode
 2024-11-25T06:21:18 tweak timeout values
 2024-11-25T09:40:37 fix: sanitize user input correctly
+2024-11-26T11:38:44 improve error messages
