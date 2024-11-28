@@ -1272,3 +1272,4 @@
 2024-11-28T11:00:41 feat: add pagination support
 2024-11-28T11:15:48 minor performance improvement
 2024-11-28T17:05:48 feat: expose new API endpoint
+2024-11-28T22:37:08 refactor: extract repeated logic into function
