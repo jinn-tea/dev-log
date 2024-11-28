@@ -1269,3 +1269,4 @@
 2024-11-27T17:08:34 chore: reorganize file structure
 2024-11-27T20:15:36 feat: implement retry mechanism
 2024-11-28T06:06:30 update config defaults
+2024-11-28T11:00:41 feat: add pagination support
