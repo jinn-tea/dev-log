@@ -1279,3 +1279,4 @@
 2024-11-29T16:26:42 feat: add helper utility function
 2024-11-29T16:27:30 test: add edge case coverage
 2024-11-29T18:23:39 feat: expose new API endpoint
+2024-11-30T09:03:19 fix: typo in error message
