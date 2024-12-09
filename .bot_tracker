@@ -1289,3 +1289,4 @@
 2024-12-08T22:06:29 refactor: rename variables for clarity
 2024-12-09T11:39:15 feat: expose new API endpoint
 2024-12-09T12:09:39 fix: address race condition
+2024-12-09T13:11:12 adjust retry logic
