@@ -1291,3 +1291,4 @@
 2024-12-09T12:09:39 fix: address race condition
 2024-12-09T13:11:12 adjust retry logic
 2024-12-10T08:51:01 improve error messages
+2024-12-10T13:41:35 fix: sanitize user input correctly
