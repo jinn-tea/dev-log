@@ -1290,3 +1290,4 @@
 2024-12-09T11:39:15 feat: expose new API endpoint
 2024-12-09T12:09:39 fix: address race condition
 2024-12-09T13:11:12 adjust retry logic
+2024-12-10T08:51:01 improve error messages
