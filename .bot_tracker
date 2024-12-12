@@ -1294,3 +1294,4 @@
 2024-12-10T13:41:35 fix: sanitize user input correctly
 2024-12-12T09:45:45 fix: memory leak in event listener
 2024-12-12T10:24:55 docs: update README with setup steps
+2024-12-12T11:06:16 chore: clean up unused imports
