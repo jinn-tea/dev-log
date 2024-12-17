@@ -1303,3 +1303,4 @@
 2024-12-13T17:31:20 chore: clean up unused imports
 2024-12-17T10:08:32 improve error messages
 2024-12-17T10:28:09 handle additional response types
+2024-12-17T11:42:40 chore: remove console.log statements
