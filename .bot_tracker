@@ -1306,3 +1306,4 @@
 2024-12-17T11:42:40 chore: remove console.log statements
 2024-12-17T19:20:08 address review comments
 2024-12-19T10:19:34 improve error messages
+2024-12-19T14:24:45 style: apply formatter
