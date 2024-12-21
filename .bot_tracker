@@ -1309,3 +1309,4 @@
 2024-12-19T14:24:45 style: apply formatter
 2024-12-19T15:48:58 small cleanup
 2024-12-20T18:34:16 small cleanup
+2024-12-21T13:23:20 test: fix flaky assertion
