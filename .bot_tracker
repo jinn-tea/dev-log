@@ -1318,3 +1318,4 @@
 2024-12-26T08:17:13 tweak timeout values
 2024-12-26T12:51:09 feat: add basic validation logic
 2024-12-26T13:59:09 fix: wrong variable used in condition
+2024-12-30T11:43:39 feat: add logging for debug mode
