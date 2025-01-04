@@ -1,3 +1,4 @@
 2025-01-01T18:36:28 fix: memory leak in event listener
 2025-01-03T13:11:58 docs: update README with setup steps
 2025-01-03T18:43:02 style: apply formatter
+2025-01-04T10:45:22 fix: correct off-by-one error
