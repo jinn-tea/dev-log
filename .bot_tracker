@@ -9,3 +9,4 @@
 2025-01-07T07:03:45 feat: add basic validation logic
 2025-01-07T12:19:14 refactor: remove dead code
 2025-01-07T13:25:19 update config defaults
+2025-01-08T14:51:58 fix: resolve edge case in input handling
