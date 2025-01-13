@@ -13,3 +13,4 @@
 2025-01-10T11:49:25 chore: remove console.log statements
 2025-01-10T14:18:53 update config defaults
 2025-01-10T17:56:55 clean up after merge
+2025-01-13T09:15:29 minor performance improvement
