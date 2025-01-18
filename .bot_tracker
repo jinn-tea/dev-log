@@ -21,3 +21,4 @@
 2025-01-17T18:01:08 minor refactor
 2025-01-18T09:12:04 handle additional response types
 2025-01-18T13:31:03 test: fix flaky assertion
+2025-01-18T13:58:47 chore: bump dependency versions
