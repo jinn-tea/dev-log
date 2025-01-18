@@ -19,3 +19,4 @@
 2025-01-15T20:20:07 style: fix inconsistent indentation
 2025-01-17T17:29:17 tweak timeout values
 2025-01-17T18:01:08 minor refactor
+2025-01-18T09:12:04 handle additional response types
