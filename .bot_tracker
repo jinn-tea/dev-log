@@ -30,3 +30,4 @@
 2025-01-22T14:18:32 refactor: remove dead code
 2025-01-22T14:26:28 fix: sanitize user input correctly
 2025-01-22T14:40:59 fix: update broken import path
+2025-01-22T14:57:50 fix: prevent duplicate entries
