@@ -28,3 +28,4 @@
 2025-01-22T09:44:12 tweak timeout values
 2025-01-22T11:28:46 feat: add basic validation logic
 2025-01-22T14:18:32 refactor: remove dead code
+2025-01-22T14:26:28 fix: sanitize user input correctly
