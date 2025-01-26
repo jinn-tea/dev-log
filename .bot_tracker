@@ -36,3 +36,4 @@
 2025-01-24T07:31:09 chore: update .gitignore entries
 2025-01-24T11:07:08 feat: expose new API endpoint
 2025-01-24T14:10:13 fix: handle null reference gracefully
+2025-01-26T07:13:08 fix: sanitize user input correctly
