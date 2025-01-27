@@ -38,3 +38,4 @@
 2025-01-24T14:10:13 fix: handle null reference gracefully
 2025-01-26T07:13:08 fix: sanitize user input correctly
 2025-01-26T16:53:43 feat: add basic validation logic
+2025-01-27T09:23:02 improve error messages
