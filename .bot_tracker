@@ -41,3 +41,4 @@
 2025-01-27T09:23:02 improve error messages
 2025-01-28T10:40:39 update config defaults
 2025-01-30T12:54:54 minor performance improvement
+2025-01-30T19:28:34 feat: expose new API endpoint
