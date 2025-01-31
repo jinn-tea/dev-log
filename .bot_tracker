@@ -43,3 +43,4 @@
 2025-01-30T12:54:54 minor performance improvement
 2025-01-30T19:28:34 feat: expose new API endpoint
 2025-01-31T06:27:46 fix: sanitize user input correctly
+2025-01-31T07:55:40 fix: handle null reference gracefully
