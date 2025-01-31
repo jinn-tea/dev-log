@@ -42,3 +42,4 @@
 2025-01-28T10:40:39 update config defaults
 2025-01-30T12:54:54 minor performance improvement
 2025-01-30T19:28:34 feat: expose new API endpoint
+2025-01-31T06:27:46 fix: sanitize user input correctly
