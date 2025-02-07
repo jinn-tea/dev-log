@@ -49,3 +49,4 @@
 2025-02-06T16:29:01 docs: update README with setup steps
 2025-02-07T08:47:04 feat: implement retry mechanism
 2025-02-07T12:05:26 chore: reorganize file structure
+2025-02-07T17:48:47 refactor: simplify conditional branches
