@@ -52,3 +52,4 @@
 2025-02-07T17:48:47 refactor: simplify conditional branches
 2025-02-07T17:51:33 chore: bump dependency versions
 2025-02-07T21:28:48 fix: prevent duplicate entries
+2025-02-08T18:39:21 chore: remove console.log statements
