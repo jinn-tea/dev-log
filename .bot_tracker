@@ -55,3 +55,4 @@
 2025-02-08T18:39:21 chore: remove console.log statements
 2025-02-09T14:40:37 fix: resolve edge case in input handling
 2025-02-10T08:10:29 small cleanup
+2025-02-10T15:06:32 feat: add helper utility function
