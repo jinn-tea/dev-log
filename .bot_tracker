@@ -60,3 +60,4 @@
 2025-02-10T23:03:22 feat: implement caching layer
 2025-02-11T10:09:04 fix: resolve edge case in input handling
 2025-02-11T18:47:51 fix: wrong variable used in condition
+2025-02-11T20:26:03 adjust retry logic
