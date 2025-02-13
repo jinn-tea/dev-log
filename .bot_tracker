@@ -71,3 +71,4 @@
 2025-02-13T15:24:48 minor performance improvement
 2025-02-13T17:54:21 chore: update .gitignore entries
 2025-02-13T20:08:12 style: apply formatter
+2025-02-13T20:55:46 fix: sanitize user input correctly
