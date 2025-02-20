@@ -81,3 +81,4 @@
 2025-02-17T15:26:31 fix: handle null reference gracefully
 2025-02-17T16:26:58 feat: implement caching layer
 2025-02-20T14:00:55 feat: implement retry mechanism
+2025-02-20T15:53:34 feat: add logging for debug mode
