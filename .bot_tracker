@@ -87,3 +87,4 @@
 2025-02-24T11:50:29 chore: bump dependency versions
 2025-02-25T07:51:20 refactor: extract repeated logic into function
 2025-02-25T10:32:53 update config defaults
+2025-02-25T13:16:38 fix: wrong variable used in condition
