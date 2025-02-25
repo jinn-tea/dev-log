@@ -85,3 +85,4 @@
 2025-02-20T20:10:34 test: fix flaky assertion
 2025-02-24T06:46:15 feat: add basic validation logic
 2025-02-24T11:50:29 chore: bump dependency versions
+2025-02-25T07:51:20 refactor: extract repeated logic into function
