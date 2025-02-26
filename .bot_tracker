@@ -90,3 +90,4 @@
 2025-02-25T13:16:38 fix: wrong variable used in condition
 2025-02-25T17:29:36 feat: support additional config options
 2025-02-26T09:36:40 update config defaults
+2025-02-26T09:38:09 chore: remove console.log statements
