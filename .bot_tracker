@@ -93,3 +93,4 @@
 2025-02-26T09:38:09 chore: remove console.log statements
 2025-02-26T17:48:59 feat: implement retry mechanism
 2025-02-26T18:28:04 fix: resolve edge case in input handling
+2025-02-27T15:10:27 feat: expose new API endpoint
