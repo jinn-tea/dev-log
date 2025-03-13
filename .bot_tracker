@@ -113,3 +113,4 @@
 2025-03-13T07:16:18 address review comments
 2025-03-13T07:23:14 chore: update .gitignore entries
 2025-03-13T10:10:19 feat: add logging for debug mode
+2025-03-13T16:19:47 feat: add pagination support
