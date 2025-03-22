@@ -129,3 +129,4 @@
 2025-03-21T10:36:29 feat: support additional config options
 2025-03-21T11:30:16 style: apply formatter
 2025-03-21T19:27:35 fix: prevent duplicate entries
+2025-03-22T11:30:26 refactor: simplify conditional branches
