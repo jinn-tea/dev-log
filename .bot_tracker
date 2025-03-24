@@ -134,3 +134,4 @@
 2025-03-24T10:48:39 update config defaults
 2025-03-24T11:41:30 fix: sanitize user input correctly
 2025-03-24T14:06:06 small cleanup
+2025-03-24T18:27:21 feat: support additional config options
