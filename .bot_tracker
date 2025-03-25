@@ -135,3 +135,4 @@
 2025-03-24T11:41:30 fix: sanitize user input correctly
 2025-03-24T14:06:06 small cleanup
 2025-03-24T18:27:21 feat: support additional config options
+2025-03-25T05:56:00 tweak timeout values
