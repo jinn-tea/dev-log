@@ -137,3 +137,4 @@
 2025-03-24T18:27:21 feat: support additional config options
 2025-03-25T05:56:00 tweak timeout values
 2025-03-25T12:31:12 feat: support additional config options
+2025-03-25T12:44:36 fix: wrong variable used in condition
