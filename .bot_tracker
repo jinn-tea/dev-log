@@ -145,3 +145,4 @@
 2025-03-27T15:23:48 test: fix flaky assertion
 2025-03-29T14:51:47 chore: update .gitignore entries
 2025-03-30T16:29:35 improve error messages
+2025-03-30T16:52:28 refactor: simplify conditional branches
