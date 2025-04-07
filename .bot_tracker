@@ -154,3 +154,4 @@
 2025-04-03T13:19:09 refactor: simplify conditional branches
 2025-04-07T09:25:26 adjust retry logic
 2025-04-07T15:39:03 refactor: extract repeated logic into function
+2025-04-07T17:59:41 update config defaults
