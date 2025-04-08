@@ -155,3 +155,4 @@
 2025-04-07T09:25:26 adjust retry logic
 2025-04-07T15:39:03 refactor: extract repeated logic into function
 2025-04-07T17:59:41 update config defaults
+2025-04-08T11:08:43 fix: memory leak in event listener
