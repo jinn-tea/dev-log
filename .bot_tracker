@@ -157,3 +157,4 @@
 2025-04-07T17:59:41 update config defaults
 2025-04-08T11:08:43 fix: memory leak in event listener
 2025-04-08T14:10:15 fix: typo in error message
+2025-04-09T09:41:16 feat: add pagination support
