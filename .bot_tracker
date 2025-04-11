@@ -162,3 +162,4 @@
 2025-04-09T15:19:44 minor refactor
 2025-04-09T16:03:57 update config defaults
 2025-04-11T12:26:51 refactor: extract repeated logic into function
+2025-04-11T15:10:44 adjust retry logic
