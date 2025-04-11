@@ -161,3 +161,4 @@
 2025-04-09T10:39:30 docs: add inline comments for clarity
 2025-04-09T15:19:44 minor refactor
 2025-04-09T16:03:57 update config defaults
+2025-04-11T12:26:51 refactor: extract repeated logic into function
