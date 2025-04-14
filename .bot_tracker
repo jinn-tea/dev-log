@@ -167,3 +167,4 @@
 2025-04-14T10:18:03 chore: remove console.log statements
 2025-04-14T10:19:40 chore: clean up unused imports
 2025-04-14T18:35:40 fix: prevent duplicate entries
+2025-04-14T19:02:35 fix: memory leak in event listener
