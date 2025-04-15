@@ -171,3 +171,4 @@
 2025-04-14T19:33:24 feat: support additional config options
 2025-04-15T07:04:38 chore: remove console.log statements
 2025-04-15T12:57:39 feat: add logging for debug mode
+2025-04-15T14:08:31 chore: bump dependency versions
