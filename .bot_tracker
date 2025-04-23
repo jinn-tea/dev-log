@@ -178,3 +178,4 @@
 2025-04-21T16:30:14 adjust retry logic
 2025-04-22T07:26:20 style: fix inconsistent indentation
 2025-04-22T16:19:03 fix: prevent duplicate entries
+2025-04-23T05:00:13 docs: add inline comments for clarity
