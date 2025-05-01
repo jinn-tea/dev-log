@@ -184,3 +184,4 @@
 2025-04-28T16:22:20 feat: support additional config options
 2025-05-01T08:02:17 improve error messages
 2025-05-01T11:19:24 feat: add helper utility function
+2025-05-01T13:06:09 fix: wrong variable used in condition
