@@ -187,3 +187,4 @@
 2025-05-01T13:06:09 fix: wrong variable used in condition
 2025-05-01T16:10:11 chore: bump dependency versions
 2025-05-01T18:01:36 feat: add basic validation logic
+2025-05-01T20:18:29 handle additional response types
