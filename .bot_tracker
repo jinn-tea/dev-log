@@ -189,3 +189,4 @@
 2025-05-01T18:01:36 feat: add basic validation logic
 2025-05-01T20:18:29 handle additional response types
 2025-05-01T20:24:29 chore: update .gitignore entries
+2025-05-02T15:02:51 improve error messages
