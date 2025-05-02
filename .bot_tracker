@@ -190,3 +190,4 @@
 2025-05-01T20:18:29 handle additional response types
 2025-05-01T20:24:29 chore: update .gitignore entries
 2025-05-02T15:02:51 improve error messages
+2025-05-02T20:22:53 refactor: simplify conditional branches
