@@ -192,3 +192,4 @@
 2025-05-02T15:02:51 improve error messages
 2025-05-02T20:22:53 refactor: simplify conditional branches
 2025-05-04T10:20:30 fix: update broken import path
+2025-05-04T11:14:00 chore: bump dependency versions
