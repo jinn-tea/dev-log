@@ -205,3 +205,4 @@
 2025-05-11T16:21:25 clean up after merge
 2025-05-11T17:37:40 fix: typo in error message
 2025-05-12T12:18:22 refactor: extract repeated logic into function
+2025-05-12T22:14:47 chore: update .gitignore entries
