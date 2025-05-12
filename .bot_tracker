@@ -204,3 +204,4 @@
 2025-05-11T09:23:16 chore: lock file update
 2025-05-11T16:21:25 clean up after merge
 2025-05-11T17:37:40 fix: typo in error message
+2025-05-12T12:18:22 refactor: extract repeated logic into function
