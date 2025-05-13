@@ -208,3 +208,4 @@
 2025-05-12T22:14:47 chore: update .gitignore entries
 2025-05-13T11:02:46 fix: sanitize user input correctly
 2025-05-13T11:18:27 minor refactor
+2025-05-13T11:35:05 fix: resolve edge case in input handling
