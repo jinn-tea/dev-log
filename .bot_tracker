@@ -207,3 +207,4 @@
 2025-05-12T12:18:22 refactor: extract repeated logic into function
 2025-05-12T22:14:47 chore: update .gitignore entries
 2025-05-13T11:02:46 fix: sanitize user input correctly
+2025-05-13T11:18:27 minor refactor
