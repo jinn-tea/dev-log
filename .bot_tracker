@@ -218,3 +218,4 @@
 2025-05-15T10:35:54 docs: update README with setup steps
 2025-05-15T11:47:14 feat: expose new API endpoint
 2025-05-15T17:00:40 feat: add basic validation logic
+2025-05-15T18:23:56 refactor: extract repeated logic into function
