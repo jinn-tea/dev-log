@@ -221,3 +221,4 @@
 2025-05-15T18:23:56 refactor: extract repeated logic into function
 2025-05-18T10:55:58 docs: update README with setup steps
 2025-05-18T17:47:43 feat: add logging for debug mode
+2025-05-19T09:06:24 feat: add pagination support
