@@ -229,3 +229,4 @@
 2025-05-21T12:46:12 fix: resolve edge case in input handling
 2025-05-21T15:08:18 fix: correct off-by-one error
 2025-05-21T15:12:54 fix: handle null reference gracefully
+2025-05-21T17:21:59 feat: expose new API endpoint
