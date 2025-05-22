@@ -231,3 +231,4 @@
 2025-05-21T15:12:54 fix: handle null reference gracefully
 2025-05-21T17:21:59 feat: expose new API endpoint
 2025-05-21T21:19:49 chore: lock file update
+2025-05-22T10:00:38 chore: bump dependency versions
