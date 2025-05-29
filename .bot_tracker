@@ -242,3 +242,4 @@
 2025-05-28T12:02:07 fix: memory leak in event listener
 2025-05-28T14:35:24 fix: resolve edge case in input handling
 2025-05-28T20:45:37 style: fix inconsistent indentation
+2025-05-29T08:13:56 update config defaults
