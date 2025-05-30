@@ -246,3 +246,4 @@
 2025-05-29T14:43:51 feat: expose new API endpoint
 2025-05-30T11:32:37 test: add edge case coverage
 2025-05-30T14:08:12 tweak timeout values
+2025-05-30T14:28:01 feat: add basic validation logic
