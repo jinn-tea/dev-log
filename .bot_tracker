@@ -254,3 +254,4 @@
 2025-06-02T23:51:12 chore: lock file update
 2025-06-03T14:43:40 fix: wrong variable used in condition
 2025-06-06T06:34:43 style: fix inconsistent indentation
+2025-06-06T08:40:28 chore: update .gitignore entries
