@@ -269,3 +269,4 @@
 2025-06-10T08:52:24 chore: reorganize file structure
 2025-06-10T10:47:56 refactor: extract repeated logic into function
 2025-06-10T10:51:33 update config defaults
+2025-06-10T10:58:51 test: add edge case coverage
