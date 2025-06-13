@@ -273,3 +273,4 @@
 2025-06-12T11:17:23 test: fix flaky assertion
 2025-06-12T17:11:26 update config defaults
 2025-06-13T09:04:13 chore: lock file update
+2025-06-13T14:37:51 fix: prevent duplicate entries
