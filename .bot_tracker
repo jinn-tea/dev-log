@@ -281,3 +281,4 @@
 2025-06-17T07:30:03 fix: handle null reference gracefully
 2025-06-17T15:46:22 update config defaults
 2025-06-18T05:45:16 feat: support additional config options
+2025-06-18T17:26:15 chore: bump dependency versions
