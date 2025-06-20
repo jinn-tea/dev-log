@@ -284,3 +284,4 @@
 2025-06-18T17:26:15 chore: bump dependency versions
 2025-06-19T09:32:22 refactor: simplify conditional branches
 2025-06-19T11:35:17 feat: expose new API endpoint
+2025-06-20T11:07:39 small cleanup
