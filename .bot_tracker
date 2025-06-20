@@ -287,3 +287,4 @@
 2025-06-20T11:07:39 small cleanup
 2025-06-20T11:12:59 test: fix flaky assertion
 2025-06-20T16:16:42 fix: memory leak in event listener
+2025-06-20T16:52:35 fix: correct off-by-one error
