@@ -286,3 +286,4 @@
 2025-06-19T11:35:17 feat: expose new API endpoint
 2025-06-20T11:07:39 small cleanup
 2025-06-20T11:12:59 test: fix flaky assertion
+2025-06-20T16:16:42 fix: memory leak in event listener
