@@ -289,3 +289,4 @@
 2025-06-20T16:16:42 fix: memory leak in event listener
 2025-06-20T16:52:35 fix: correct off-by-one error
 2025-06-20T21:09:07 style: fix inconsistent indentation
+2025-06-21T15:28:47 fix: handle null reference gracefully
