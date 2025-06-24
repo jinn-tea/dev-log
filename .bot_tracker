@@ -293,3 +293,4 @@
 2025-06-21T18:10:54 feat: expose new API endpoint
 2025-06-24T14:16:57 chore: update .gitignore entries
 2025-06-24T17:29:13 fix: resolve edge case in input handling
+2025-06-24T19:09:06 fix: sanitize user input correctly
