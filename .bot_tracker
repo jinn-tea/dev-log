@@ -294,3 +294,4 @@
 2025-06-24T14:16:57 chore: update .gitignore entries
 2025-06-24T17:29:13 fix: resolve edge case in input handling
 2025-06-24T19:09:06 fix: sanitize user input correctly
+2025-06-24T22:07:01 fix: update broken import path
