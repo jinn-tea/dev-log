@@ -296,3 +296,4 @@
 2025-06-24T19:09:06 fix: sanitize user input correctly
 2025-06-24T22:07:01 fix: update broken import path
 2025-06-24T22:24:14 fix: memory leak in event listener
+2025-06-25T10:15:05 fix: handle null reference gracefully
