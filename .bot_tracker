@@ -301,3 +301,4 @@
 2025-06-25T16:35:41 fix: memory leak in event listener
 2025-06-26T13:16:18 fix: handle null reference gracefully
 2025-06-26T22:32:29 feat: add logging for debug mode
+2025-06-27T08:01:55 tweak timeout values
