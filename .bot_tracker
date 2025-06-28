@@ -305,3 +305,4 @@
 2025-06-27T08:13:27 adjust retry logic
 2025-06-27T16:46:31 feat: implement retry mechanism
 2025-06-28T09:46:22 adjust retry logic
+2025-06-28T19:19:14 feat: add logging for debug mode
