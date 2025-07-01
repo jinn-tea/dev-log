@@ -308,3 +308,4 @@
 2025-06-28T19:19:14 feat: add logging for debug mode
 2025-06-29T06:23:06 fix: memory leak in event listener
 2025-06-29T16:59:39 fix: sanitize user input correctly
+2025-07-01T06:53:56 chore: lock file update
