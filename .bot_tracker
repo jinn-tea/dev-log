@@ -317,3 +317,4 @@
 2025-07-04T11:23:02 handle additional response types
 2025-07-04T13:01:54 feat: add pagination support
 2025-07-04T13:36:28 feat: add helper utility function
+2025-07-04T17:58:21 fix: resolve edge case in input handling
