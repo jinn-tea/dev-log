@@ -314,3 +314,4 @@
 2025-07-02T17:42:00 docs: update README with setup steps
 2025-07-03T19:30:34 feat: support additional config options
 2025-07-04T08:44:20 refactor: simplify conditional branches
+2025-07-04T11:23:02 handle additional response types
