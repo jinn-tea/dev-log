@@ -320,3 +320,4 @@
 2025-07-04T17:58:21 fix: resolve edge case in input handling
 2025-07-04T20:39:56 refactor: remove dead code
 2025-07-05T09:37:55 minor refactor
+2025-07-05T16:51:37 update config defaults
