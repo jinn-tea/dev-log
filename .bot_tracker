@@ -330,3 +330,4 @@
 2025-07-10T09:09:18 improve error messages
 2025-07-10T10:20:07 chore: reorganize file structure
 2025-07-10T15:34:51 fix: memory leak in event listener
+2025-07-10T16:51:29 adjust retry logic
