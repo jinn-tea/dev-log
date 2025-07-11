@@ -335,3 +335,4 @@
 2025-07-10T19:38:21 handle additional response types
 2025-07-11T08:17:14 style: apply formatter
 2025-07-11T12:32:07 fix: memory leak in event listener
+2025-07-11T14:42:58 fix: prevent duplicate entries
