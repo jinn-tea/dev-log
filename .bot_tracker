@@ -337,3 +337,4 @@
 2025-07-11T12:32:07 fix: memory leak in event listener
 2025-07-11T14:42:58 fix: prevent duplicate entries
 2025-07-11T20:21:38 fix: handle null reference gracefully
+2025-07-12T20:37:50 improve error messages
