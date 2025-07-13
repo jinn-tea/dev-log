@@ -338,3 +338,4 @@
 2025-07-11T14:42:58 fix: prevent duplicate entries
 2025-07-11T20:21:38 fix: handle null reference gracefully
 2025-07-12T20:37:50 improve error messages
+2025-07-13T20:12:09 docs: update README with setup steps
