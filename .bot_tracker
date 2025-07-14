@@ -340,3 +340,4 @@
 2025-07-12T20:37:50 improve error messages
 2025-07-13T20:12:09 docs: update README with setup steps
 2025-07-14T09:57:10 refactor: extract repeated logic into function
+2025-07-14T14:00:27 feat: expose new API endpoint
