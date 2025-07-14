@@ -339,3 +339,4 @@
 2025-07-11T20:21:38 fix: handle null reference gracefully
 2025-07-12T20:37:50 improve error messages
 2025-07-13T20:12:09 docs: update README with setup steps
+2025-07-14T09:57:10 refactor: extract repeated logic into function
