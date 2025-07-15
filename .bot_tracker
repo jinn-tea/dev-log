@@ -343,3 +343,4 @@
 2025-07-14T14:00:27 feat: expose new API endpoint
 2025-07-14T15:22:18 address review comments
 2025-07-15T15:56:28 small cleanup
+2025-07-15T19:06:53 fix: sanitize user input correctly
