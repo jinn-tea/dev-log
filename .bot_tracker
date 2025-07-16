@@ -346,3 +346,4 @@
 2025-07-15T19:06:53 fix: sanitize user input correctly
 2025-07-15T19:57:09 chore: remove console.log statements
 2025-07-16T08:13:00 feat: add logging for debug mode
+2025-07-16T20:12:02 feat: implement caching layer
