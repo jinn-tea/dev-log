@@ -355,3 +355,4 @@
 2025-07-18T13:54:45 docs: update README with setup steps
 2025-07-18T15:38:31 refactor: simplify conditional branches
 2025-07-18T16:58:27 feat: expose new API endpoint
+2025-07-18T17:19:17 feat: implement retry mechanism
