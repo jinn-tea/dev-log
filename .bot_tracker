@@ -350,3 +350,4 @@
 2025-07-17T09:56:27 feat: add logging for debug mode
 2025-07-17T15:33:16 feat: support additional config options
 2025-07-17T20:43:05 style: apply formatter
+2025-07-18T07:01:19 test: add edge case coverage
