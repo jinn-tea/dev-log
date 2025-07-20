@@ -357,3 +357,4 @@
 2025-07-18T16:58:27 feat: expose new API endpoint
 2025-07-18T17:19:17 feat: implement retry mechanism
 2025-07-18T22:54:24 handle additional response types
+2025-07-20T12:12:06 fix: address race condition
