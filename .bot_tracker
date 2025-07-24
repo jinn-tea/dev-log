@@ -370,3 +370,4 @@
 2025-07-24T10:32:41 feat: support additional config options
 2025-07-24T10:37:41 improve error messages
 2025-07-24T11:07:02 fix: handle null reference gracefully
+2025-07-24T11:59:04 feat: add logging for debug mode
