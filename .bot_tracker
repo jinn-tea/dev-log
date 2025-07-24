@@ -372,3 +372,4 @@
 2025-07-24T11:07:02 fix: handle null reference gracefully
 2025-07-24T11:59:04 feat: add logging for debug mode
 2025-07-24T12:40:10 address review comments
+2025-07-24T14:11:06 feat: add basic validation logic
