@@ -378,3 +378,4 @@
 2025-07-25T09:11:48 handle additional response types
 2025-07-25T13:48:01 fix: correct off-by-one error
 2025-07-25T14:47:05 feat: add logging for debug mode
+2025-07-25T17:29:06 fix: typo in error message
