@@ -391,3 +391,4 @@
 2025-08-05T11:09:09 refactor: extract repeated logic into function
 2025-08-05T11:10:56 fix: wrong variable used in condition
 2025-08-05T13:00:35 feat: expose new API endpoint
+2025-08-05T16:07:14 feat: add basic validation logic
