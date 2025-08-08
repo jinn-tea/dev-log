@@ -398,3 +398,4 @@
 2025-08-07T10:57:48 test: fix flaky assertion
 2025-08-07T11:37:05 style: apply formatter
 2025-08-08T07:20:18 fix: sanitize user input correctly
+2025-08-08T09:03:17 docs: update README with setup steps
