@@ -400,3 +400,4 @@
 2025-08-08T07:20:18 fix: sanitize user input correctly
 2025-08-08T09:03:17 docs: update README with setup steps
 2025-08-08T09:31:55 chore: clean up unused imports
+2025-08-08T11:19:41 feat: expose new API endpoint
