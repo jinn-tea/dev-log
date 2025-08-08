@@ -399,3 +399,4 @@
 2025-08-07T11:37:05 style: apply formatter
 2025-08-08T07:20:18 fix: sanitize user input correctly
 2025-08-08T09:03:17 docs: update README with setup steps
+2025-08-08T09:31:55 chore: clean up unused imports
