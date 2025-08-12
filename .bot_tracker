@@ -402,3 +402,4 @@
 2025-08-08T09:31:55 chore: clean up unused imports
 2025-08-08T11:19:41 feat: expose new API endpoint
 2025-08-10T15:46:25 fix: correct off-by-one error
+2025-08-12T18:48:25 chore: remove console.log statements
