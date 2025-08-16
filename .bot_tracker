@@ -406,3 +406,4 @@
 2025-08-14T14:10:45 handle additional response types
 2025-08-14T19:01:16 update config defaults
 2025-08-14T21:25:33 docs: add inline comments for clarity
+2025-08-16T17:38:19 feat: add basic validation logic
