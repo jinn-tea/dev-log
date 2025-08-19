@@ -407,3 +407,4 @@
 2025-08-14T19:01:16 update config defaults
 2025-08-14T21:25:33 docs: add inline comments for clarity
 2025-08-16T17:38:19 feat: add basic validation logic
+2025-08-19T09:09:07 feat: add helper utility function
