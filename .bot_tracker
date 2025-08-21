@@ -413,3 +413,4 @@
 2025-08-20T16:34:34 feat: add pagination support
 2025-08-21T08:17:53 refactor: extract repeated logic into function
 2025-08-21T13:13:02 chore: reorganize file structure
+2025-08-21T14:32:15 style: fix inconsistent indentation
