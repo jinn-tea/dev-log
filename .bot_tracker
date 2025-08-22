@@ -417,3 +417,4 @@
 2025-08-21T22:11:01 fix: memory leak in event listener
 2025-08-22T10:25:30 style: fix inconsistent indentation
 2025-08-22T11:26:38 fix: correct off-by-one error
+2025-08-22T15:27:24 chore: update .gitignore entries
