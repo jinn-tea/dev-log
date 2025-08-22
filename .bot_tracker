@@ -418,3 +418,4 @@
 2025-08-22T10:25:30 style: fix inconsistent indentation
 2025-08-22T11:26:38 fix: correct off-by-one error
 2025-08-22T15:27:24 chore: update .gitignore entries
+2025-08-22T16:23:47 feat: add pagination support
