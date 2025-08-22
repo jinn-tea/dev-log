@@ -420,3 +420,4 @@
 2025-08-22T15:27:24 chore: update .gitignore entries
 2025-08-22T16:23:47 feat: add pagination support
 2025-08-22T16:54:47 feat: implement retry mechanism
+2025-08-22T21:45:16 tweak timeout values
