@@ -432,3 +432,4 @@
 2025-08-27T15:15:43 style: apply formatter
 2025-08-27T15:34:35 clean up after merge
 2025-08-28T16:06:23 chore: update .gitignore entries
+2025-08-29T08:24:34 chore: remove console.log statements
