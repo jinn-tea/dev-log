@@ -436,3 +436,4 @@
 2025-08-29T19:39:42 improve error messages
 2025-08-29T20:38:13 address review comments
 2025-08-30T15:52:19 test: fix flaky assertion
+2025-08-31T14:32:37 feat: implement retry mechanism
