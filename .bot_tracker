@@ -439,3 +439,4 @@
 2025-08-31T14:32:37 feat: implement retry mechanism
 2025-08-31T15:23:01 fix: address race condition
 2025-09-01T16:45:28 improve error messages
+2025-09-01T18:48:15 adjust retry logic
