@@ -445,3 +445,4 @@
 2025-09-02T11:27:38 refactor: extract repeated logic into function
 2025-09-02T12:29:52 fix: sanitize user input correctly
 2025-09-02T14:33:12 feat: implement retry mechanism
+2025-09-02T18:19:10 feat: add pagination support
