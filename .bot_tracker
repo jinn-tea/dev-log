@@ -446,3 +446,4 @@
 2025-09-02T12:29:52 fix: sanitize user input correctly
 2025-09-02T14:33:12 feat: implement retry mechanism
 2025-09-02T18:19:10 feat: add pagination support
+2025-09-03T10:45:32 handle additional response types
