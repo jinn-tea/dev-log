@@ -447,3 +447,4 @@
 2025-09-02T14:33:12 feat: implement retry mechanism
 2025-09-02T18:19:10 feat: add pagination support
 2025-09-03T10:45:32 handle additional response types
+2025-09-03T14:17:55 refactor: extract repeated logic into function
