@@ -462,3 +462,4 @@
 2025-09-09T08:53:18 fix: resolve edge case in input handling
 2025-09-09T10:03:17 refactor: simplify conditional branches
 2025-09-09T17:19:09 feat: support additional config options
+2025-09-11T13:12:11 feat: add basic validation logic
