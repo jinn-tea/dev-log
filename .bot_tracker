@@ -487,3 +487,4 @@
 2025-09-18T22:45:21 chore: remove console.log statements
 2025-09-19T15:54:53 fix: resolve edge case in input handling
 2025-09-19T16:13:16 chore: reorganize file structure
+2025-09-20T19:40:42 feat: support additional config options
