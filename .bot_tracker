@@ -492,3 +492,4 @@
 2025-09-23T12:07:21 fix: update broken import path
 2025-09-23T17:12:11 refactor: remove dead code
 2025-09-23T17:26:59 docs: update README with setup steps
+2025-09-28T12:28:09 handle additional response types
