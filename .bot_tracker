@@ -494,3 +494,4 @@
 2025-09-23T17:26:59 docs: update README with setup steps
 2025-09-28T12:28:09 handle additional response types
 2025-09-28T18:56:22 feat: add logging for debug mode
+2025-09-29T14:00:06 refactor: remove dead code
