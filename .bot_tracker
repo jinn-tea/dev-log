@@ -499,3 +499,4 @@
 2025-09-29T17:14:21 style: apply formatter
 2025-10-02T16:31:23 fix: typo in error message
 2025-10-03T07:13:53 update config defaults
+2025-10-03T09:34:49 chore: remove console.log statements
