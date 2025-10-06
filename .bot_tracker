@@ -502,3 +502,4 @@
 2025-10-03T09:34:49 chore: remove console.log statements
 2025-10-06T05:23:47 feat: implement retry mechanism
 2025-10-06T14:24:24 small cleanup
+2025-10-06T16:35:52 refactor: simplify conditional branches
