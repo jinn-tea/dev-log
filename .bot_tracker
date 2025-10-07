@@ -505,3 +505,4 @@
 2025-10-06T16:35:52 refactor: simplify conditional branches
 2025-10-06T20:07:15 docs: add inline comments for clarity
 2025-10-07T13:49:54 refactor: remove dead code
+2025-10-07T14:40:51 docs: update README with setup steps
