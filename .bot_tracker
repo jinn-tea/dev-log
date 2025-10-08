@@ -508,3 +508,4 @@
 2025-10-07T14:40:51 docs: update README with setup steps
 2025-10-07T19:05:58 minor performance improvement
 2025-10-08T08:33:12 minor refactor
+2025-10-08T14:33:15 refactor: remove dead code
