@@ -511,3 +511,4 @@
 2025-10-08T14:33:15 refactor: remove dead code
 2025-10-08T18:01:46 update config defaults
 2025-10-09T10:12:01 feat: add helper utility function
+2025-10-09T19:35:27 fix: handle null reference gracefully
