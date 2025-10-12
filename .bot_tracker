@@ -514,3 +514,4 @@
 2025-10-09T19:35:27 fix: handle null reference gracefully
 2025-10-11T12:43:31 chore: reorganize file structure
 2025-10-11T13:48:34 fix: update broken import path
+2025-10-12T11:52:22 docs: update README with setup steps
