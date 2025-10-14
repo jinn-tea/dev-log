@@ -515,3 +515,4 @@
 2025-10-11T12:43:31 chore: reorganize file structure
 2025-10-11T13:48:34 fix: update broken import path
 2025-10-12T11:52:22 docs: update README with setup steps
+2025-10-14T10:11:27 feat: expose new API endpoint
