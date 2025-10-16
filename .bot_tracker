@@ -526,3 +526,4 @@
 2025-10-16T15:55:49 feat: add pagination support
 2025-10-16T17:54:17 refactor: simplify conditional branches
 2025-10-16T19:17:03 small cleanup
+2025-10-16T19:46:43 fix: resolve edge case in input handling
