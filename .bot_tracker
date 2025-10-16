@@ -521,3 +521,4 @@
 2025-10-15T05:36:52 fix: wrong variable used in condition
 2025-10-15T10:39:18 docs: add inline comments for clarity
 2025-10-16T10:23:38 handle additional response types
+2025-10-16T11:21:58 fix: prevent duplicate entries
