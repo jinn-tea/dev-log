@@ -528,3 +528,4 @@
 2025-10-16T19:17:03 small cleanup
 2025-10-16T19:46:43 fix: resolve edge case in input handling
 2025-10-16T20:51:35 fix: wrong variable used in condition
+2025-10-17T12:02:29 refactor: rename variables for clarity
