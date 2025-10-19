@@ -530,3 +530,4 @@
 2025-10-16T20:51:35 fix: wrong variable used in condition
 2025-10-17T12:02:29 refactor: rename variables for clarity
 2025-10-17T15:29:00 feat: add logging for debug mode
+2025-10-19T07:03:43 docs: update README with setup steps
