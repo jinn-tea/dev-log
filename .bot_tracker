@@ -531,3 +531,4 @@
 2025-10-17T12:02:29 refactor: rename variables for clarity
 2025-10-17T15:29:00 feat: add logging for debug mode
 2025-10-19T07:03:43 docs: update README with setup steps
+2025-10-19T07:37:26 chore: bump dependency versions
