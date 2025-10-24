@@ -540,3 +540,4 @@
 2025-10-24T11:05:51 chore: clean up unused imports
 2025-10-24T15:51:26 feat: add pagination support
 2025-10-24T19:42:13 fix: handle null reference gracefully
+2025-10-24T22:42:50 refactor: remove dead code
