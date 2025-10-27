@@ -544,3 +544,4 @@
 2025-10-27T08:28:39 chore: reorganize file structure
 2025-10-27T09:12:21 handle additional response types
 2025-10-27T10:03:53 fix: wrong variable used in condition
+2025-10-27T16:47:25 fix: address race condition
