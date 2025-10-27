@@ -541,3 +541,4 @@
 2025-10-24T15:51:26 feat: add pagination support
 2025-10-24T19:42:13 fix: handle null reference gracefully
 2025-10-24T22:42:50 refactor: remove dead code
+2025-10-27T08:28:39 chore: reorganize file structure
