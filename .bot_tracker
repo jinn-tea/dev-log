@@ -547,3 +547,4 @@
 2025-10-27T16:47:25 fix: address race condition
 2025-10-27T18:52:58 feat: support additional config options
 2025-10-27T19:40:12 chore: bump dependency versions
+2025-10-28T11:24:03 update config defaults
