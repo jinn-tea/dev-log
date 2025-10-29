@@ -550,3 +550,4 @@
 2025-10-28T11:24:03 update config defaults
 2025-10-28T18:11:50 fix: memory leak in event listener
 2025-10-28T18:33:45 chore: bump dependency versions
+2025-10-29T15:16:22 minor performance improvement
