@@ -552,3 +552,4 @@
 2025-10-28T18:33:45 chore: bump dependency versions
 2025-10-29T15:16:22 minor performance improvement
 2025-10-29T17:03:51 fix: sanitize user input correctly
+2025-10-29T17:17:38 docs: add inline comments for clarity
