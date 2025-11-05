@@ -555,3 +555,4 @@
 2025-10-29T17:17:38 docs: add inline comments for clarity
 2025-10-29T19:57:10 fix: handle null reference gracefully
 2025-10-31T19:01:41 feat: add logging for debug mode
+2025-11-05T14:33:12 style: fix inconsistent indentation
