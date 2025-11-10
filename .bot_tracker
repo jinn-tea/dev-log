@@ -569,3 +569,4 @@
 2025-11-10T11:56:26 test: add edge case coverage
 2025-11-10T16:36:31 chore: remove console.log statements
 2025-11-10T17:38:18 fix: update broken import path
+2025-11-10T19:17:49 feat: add pagination support
