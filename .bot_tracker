@@ -574,3 +574,4 @@
 2025-11-12T07:41:24 chore: reorganize file structure
 2025-11-12T13:36:57 chore: update .gitignore entries
 2025-11-12T16:13:48 fix: update broken import path
+2025-11-13T13:38:09 handle additional response types
