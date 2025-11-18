@@ -578,3 +578,4 @@
 2025-11-13T20:24:55 improve error messages
 2025-11-15T17:01:39 refactor: remove dead code
 2025-11-16T13:18:50 clean up after merge
+2025-11-18T10:58:13 fix: prevent duplicate entries
