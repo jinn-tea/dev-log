@@ -583,3 +583,4 @@
 2025-11-18T15:30:24 fix: wrong variable used in condition
 2025-11-18T15:35:58 feat: add logging for debug mode
 2025-11-18T19:29:17 feat: implement caching layer
+2025-11-19T13:37:07 adjust retry logic
