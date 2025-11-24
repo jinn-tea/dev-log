@@ -595,3 +595,4 @@
 2025-11-22T16:58:51 test: add edge case coverage
 2025-11-23T07:44:33 fix: correct off-by-one error
 2025-11-23T11:16:22 small cleanup
+2025-11-24T15:34:47 address review comments
