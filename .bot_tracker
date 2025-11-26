@@ -597,3 +597,4 @@
 2025-11-23T11:16:22 small cleanup
 2025-11-24T15:34:47 address review comments
 2025-11-24T22:50:10 tweak timeout values
+2025-11-26T08:52:29 feat: add pagination support
