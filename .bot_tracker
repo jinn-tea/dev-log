@@ -607,3 +607,4 @@
 2025-12-01T14:29:51 clean up after merge
 2025-12-01T15:58:27 feat: support additional config options
 2025-12-02T14:56:09 fix: sanitize user input correctly
+2025-12-02T16:20:25 fix: memory leak in event listener
