@@ -615,3 +615,4 @@
 2025-12-03T14:39:56 clean up after merge
 2025-12-03T14:46:23 style: fix inconsistent indentation
 2025-12-03T15:31:38 refactor: simplify conditional branches
+2025-12-03T17:40:33 refactor: remove dead code
