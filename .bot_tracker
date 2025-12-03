@@ -609,3 +609,4 @@
 2025-12-02T14:56:09 fix: sanitize user input correctly
 2025-12-02T16:20:25 fix: memory leak in event listener
 2025-12-02T16:56:14 tweak timeout values
+2025-12-03T11:42:46 feat: add logging for debug mode
