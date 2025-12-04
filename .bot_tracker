@@ -619,3 +619,4 @@
 2025-12-04T13:23:47 refactor: extract repeated logic into function
 2025-12-04T16:18:10 feat: add basic validation logic
 2025-12-04T17:12:17 fix: resolve edge case in input handling
+2025-12-04T17:15:48 refactor: simplify conditional branches
