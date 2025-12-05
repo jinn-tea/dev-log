@@ -624,3 +624,4 @@
 2025-12-05T10:12:00 feat: add pagination support
 2025-12-05T10:18:09 clean up after merge
 2025-12-05T14:22:07 small cleanup
+2025-12-05T17:07:10 refactor: remove dead code
