@@ -622,3 +622,4 @@
 2025-12-04T17:15:48 refactor: simplify conditional branches
 2025-12-04T23:06:33 handle additional response types
 2025-12-05T10:12:00 feat: add pagination support
+2025-12-05T10:18:09 clean up after merge
