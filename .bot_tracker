@@ -630,3 +630,4 @@
 2025-12-09T08:53:17 chore: bump dependency versions
 2025-12-09T12:28:26 feat: add logging for debug mode
 2025-12-09T12:29:08 refactor: rename variables for clarity
+2025-12-09T13:54:24 tweak timeout values
