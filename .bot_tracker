@@ -627,3 +627,4 @@
 2025-12-05T17:07:10 refactor: remove dead code
 2025-12-08T06:04:12 handle additional response types
 2025-12-08T19:45:02 adjust retry logic
+2025-12-09T08:53:17 chore: bump dependency versions
