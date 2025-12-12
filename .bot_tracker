@@ -638,3 +638,4 @@
 2025-12-11T17:27:05 chore: reorganize file structure
 2025-12-12T10:28:05 handle additional response types
 2025-12-12T12:20:13 refactor: remove dead code
+2025-12-12T19:23:20 fix: wrong variable used in condition
