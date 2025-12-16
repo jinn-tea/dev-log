@@ -649,3 +649,4 @@
 2025-12-15T17:40:40 fix: resolve edge case in input handling
 2025-12-15T19:15:13 style: apply formatter
 2025-12-16T09:07:14 feat: add logging for debug mode
+2025-12-16T14:30:28 adjust retry logic
