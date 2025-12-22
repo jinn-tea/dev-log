@@ -659,3 +659,4 @@
 2025-12-20T11:20:55 docs: update README with setup steps
 2025-12-20T12:38:36 feat: add helper utility function
 2025-12-22T15:38:25 chore: clean up unused imports
+2025-12-22T15:50:33 fix: handle null reference gracefully
