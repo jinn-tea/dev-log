@@ -667,3 +667,4 @@
 2025-12-25T14:12:48 feat: add logging for debug mode
 2025-12-25T19:57:57 test: add edge case coverage
 2025-12-25T20:19:04 docs: add inline comments for clarity
+2025-12-26T08:20:34 fix: correct off-by-one error
