@@ -670,3 +670,4 @@
 2025-12-26T08:20:34 fix: correct off-by-one error
 2025-12-26T15:10:26 refactor: simplify conditional branches
 2025-12-27T16:23:41 fix: typo in error message
+2025-12-28T11:43:33 address review comments
